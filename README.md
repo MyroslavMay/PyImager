@@ -1,4 +1,4 @@
-![Logo](Logo.png "Logo")
+![Logo](logo.png "Logo")
 
 # PyImager
 A simple imager viewer written on Python.
