@@ -1,4 +1,4 @@
-[![Logo]([https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png](https://github.com/MyroslavMay/PyImager/blob/main/logo.png))]([https://www.digitalocean.com/products/app-platform](https://github.com/MyroslavMay/PyImager/blob/main/logo.png))
+[![Logo]([https://github.com/MyroslavMay/PyImager/blob/main/logo.png](https://github.com/MyroslavMay/PyImager/blob/main/logo.png))]([https://github.com/MyroslavMay/PyImager/blob/main/logo.png](https://github.com/MyroslavMay/PyImager/blob/main/logo.png))
 
 # PyImager
 A simple imager viewer written on Python.
