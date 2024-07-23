@@ -8,6 +8,9 @@ A simple imager viewer written on Python.
 Image viewer written on Python. Supports: Image viewing more than 13 formats, Including EPS, BMP, ICNS, ICO, JPEG, JPEG2000 and more!
 
 # Some screenshots
+![ICO File Opened](ICO-file.png "ICO File")
+![About Dialog](About-dialog.png "About Dialog")
+![Multi Image Viewer](Multi-image-viewer.png "Multi Image Viewer")
 
 # Installation
 
