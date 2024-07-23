@@ -1,4 +1,4 @@
-[![Logo]([https://github.com/MyroslavMay/PyImager/blob/main/logo.png](https://github.com/MyroslavMay/PyImager/blob/main/logo.png))]([https://github.com/MyroslavMay/PyImager/blob/main/logo.png](https://github.com/MyroslavMay/PyImager/blob/main/logo.png))
+![Logo](Logo.png "Logo")
 
 # PyImager
 A simple imager viewer written on Python.
